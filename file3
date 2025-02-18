@@ -1,0 +1,5 @@
+we are trying to merge file3 from feature branch to main branch using git merge
+steps-
+1) git checkout main
+2) git merge fetaure
+3) git push 
